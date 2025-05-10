@@ -1,0 +1,6 @@
+{
+    "openai_api_key": "",
+    "model": "gpt-4o-mini",
+    "field_name": "Back",
+    "temperature": 0.0
+  }
